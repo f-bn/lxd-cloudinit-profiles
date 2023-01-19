@@ -9,7 +9,7 @@ This repository contains Cloud-Init profiles to setup applications on LXD server
 #### Requirements
 
 * LXD >= 5.0
-* Cloud-Init installed in instances
+* Cloud-Init installed in instance images
 
 ### How to use these profiles ?
 
