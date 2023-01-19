@@ -1,4 +1,4 @@
-<p><img src="https://assets.ubuntu.com/v1/15971bf5-cloud-init-primary.svg" alt="cloud-init-logo" title="cloud-init" align="top" height=85 /></p>
+<p><img src="https://assets.ubuntu.com/v1/15971bf5-cloud-init-primary.svg" alt="cloud-init-logo" title="cloud-init" align="top" height=70 /></p>
 
 *Cloud-init is the industry standard multi-distribution method for cross-platform cloud instance initialisation. It is supported across all major public cloud providers, provisioning systems for private cloud infrastructure, and bare-metal installations.*
 
